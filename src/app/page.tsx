@@ -1,5 +1,5 @@
 import data from "../../public/data/cases.json";
-import Dashboard from "@/components/Dashboard";
+import ClientDashboard from "@/components/ClientDashboard";
 
 export default function Home() {
   return (
@@ -56,7 +56,7 @@ export default function Home() {
 
       {/* Dashboard */}
       <main className="mx-auto max-w-4xl px-6 pb-24">
-        <Dashboard data={data} />
+        <ClientDashboard data={data} />
       </main>
 
       {/* Methodology */}
