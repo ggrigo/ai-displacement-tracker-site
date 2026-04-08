@@ -65,7 +65,7 @@ function buildTimeline(cases: CaseRecord[]) {
 
   cases.forEach((c) => {
     const month = (c.date_approximate || "unknown").slice(0, 7);
-    if (month === "unknown") return;
+    if (month === "unknown" || !/^\d{4}-\d{2}$/.test(month)) return;
     if (!monthCounts[month]) monthCounts[month] = {};
     const country = c.geography_country || "Unknown";
     monthCounts[month][country] = (monthCounts[month][country] || 0) + 1;
