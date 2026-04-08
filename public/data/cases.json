@@ -1,0 +1,616 @@
+{
+  "exported_at": "2026-04-08 17:36",
+  "total_cases": 11,
+  "total_sources": 30,
+  "stats": {
+    "by_country": [
+      {
+        "label": "India",
+        "count": 8
+      },
+      {
+        "label": "Unknown",
+        "count": 2
+      },
+      {
+        "label": "US",
+        "count": 1
+      }
+    ],
+    "by_sector": [
+      {
+        "label": "tech",
+        "count": 11
+      }
+    ],
+    "by_displacement": [
+      {
+        "label": "anticipatory_despair",
+        "count": 7
+      },
+      {
+        "label": "laid_off_ai_restructure",
+        "count": 4
+      }
+    ],
+    "by_confidence": [
+      {
+        "label": "alleged",
+        "count": 6
+      },
+      {
+        "label": "contextual",
+        "count": 5
+      }
+    ],
+    "by_month": [
+      {
+        "label": "2025",
+        "count": 4
+      },
+      {
+        "label": "2025-04",
+        "count": 1
+      },
+      {
+        "label": "2025-05",
+        "count": 4
+      },
+      {
+        "label": "2026-03",
+        "count": 2
+      }
+    ]
+  },
+  "cases": [
+    {
+      "case_id": 4,
+      "age_range": "30s",
+      "gender": "M",
+      "date_of_death": null,
+      "date_approximate": "2026-03",
+      "date_precision": "month",
+      "geography_country": "India",
+      "geography_region": "Karnataka",
+      "sector": "tech",
+      "role_type": "software_engineer",
+      "employer": "Unknown (US company)",
+      "displacement_type": "laid_off_ai_restructure",
+      "confidence": "alleged",
+      "status": "confirmed",
+      "had_support_network": null,
+      "had_financial_safety_net": null,
+      "time_since_displacement": null
+    },
+    {
+      "case_id": 5,
+      "age_range": "30s",
+      "gender": "F",
+      "date_of_death": null,
+      "date_approximate": "2026-03",
+      "date_precision": "month",
+      "geography_country": "India",
+      "geography_region": "Karnataka",
+      "sector": "tech",
+      "role_type": "software_engineer",
+      "employer": "IBM (reported)",
+      "displacement_type": "anticipatory_despair",
+      "confidence": "alleged",
+      "status": "confirmed",
+      "had_support_network": null,
+      "had_financial_safety_net": null,
+      "time_since_displacement": null
+    },
+    {
+      "case_id": 1,
+      "age_range": "unknown",
+      "gender": "unknown",
+      "date_of_death": null,
+      "date_approximate": "2025-05",
+      "date_precision": "month",
+      "geography_country": "US",
+      "geography_region": "",
+      "sector": "tech",
+      "role_type": "other",
+      "employer": "Microsoft",
+      "displacement_type": "laid_off_ai_restructure",
+      "confidence": "alleged",
+      "status": "reviewed",
+      "had_support_network": null,
+      "had_financial_safety_net": null,
+      "time_since_displacement": null
+    },
+    {
+      "case_id": 2,
+      "age_range": "unknown",
+      "gender": "unknown",
+      "date_of_death": null,
+      "date_approximate": "2025-05",
+      "date_precision": "month",
+      "geography_country": "Unknown",
+      "geography_region": "",
+      "sector": "tech",
+      "role_type": "other",
+      "employer": "Microsoft",
+      "displacement_type": "laid_off_ai_restructure",
+      "confidence": "alleged",
+      "status": "reviewed",
+      "had_support_network": null,
+      "had_financial_safety_net": null,
+      "time_since_displacement": null
+    },
+    {
+      "case_id": 3,
+      "age_range": "unknown",
+      "gender": "unknown",
+      "date_of_death": null,
+      "date_approximate": "2025-05",
+      "date_precision": "month",
+      "geography_country": "Unknown",
+      "geography_region": "",
+      "sector": "tech",
+      "role_type": "other",
+      "employer": "Microsoft",
+      "displacement_type": "laid_off_ai_restructure",
+      "confidence": "alleged",
+      "status": "reviewed",
+      "had_support_network": null,
+      "had_financial_safety_net": null,
+      "time_since_displacement": null
+    },
+    {
+      "case_id": 6,
+      "age_range": "20s",
+      "gender": "M",
+      "date_of_death": null,
+      "date_approximate": "2025-05",
+      "date_precision": "month",
+      "geography_country": "India",
+      "geography_region": "Karnataka",
+      "sector": "tech",
+      "role_type": "software_engineer",
+      "employer": "Ola Krutrim",
+      "displacement_type": "anticipatory_despair",
+      "confidence": "alleged",
+      "status": "confirmed",
+      "had_support_network": null,
+      "had_financial_safety_net": null,
+      "time_since_displacement": null
+    },
+    {
+      "case_id": 10,
+      "age_range": "20s",
+      "gender": "M",
+      "date_of_death": null,
+      "date_approximate": "2025-04",
+      "date_precision": "month",
+      "geography_country": "India",
+      "geography_region": "Kerala",
+      "sector": "tech",
+      "role_type": "computer engineer",
+      "employer": "",
+      "displacement_type": "anticipatory_despair",
+      "confidence": "contextual",
+      "status": "confirmed",
+      "had_support_network": null,
+      "had_financial_safety_net": null,
+      "time_since_displacement": null
+    },
+    {
+      "case_id": 7,
+      "age_range": "40s",
+      "gender": "M",
+      "date_of_death": null,
+      "date_approximate": "2025",
+      "date_precision": "year",
+      "geography_country": "India",
+      "geography_region": "Tamil Nadu",
+      "sector": "tech",
+      "role_type": "manager",
+      "employer": "",
+      "displacement_type": "anticipatory_despair",
+      "confidence": "contextual",
+      "status": "confirmed",
+      "had_support_network": null,
+      "had_financial_safety_net": null,
+      "time_since_displacement": null
+    },
+    {
+      "case_id": 8,
+      "age_range": "30s",
+      "gender": "unknown",
+      "date_of_death": null,
+      "date_approximate": "2025",
+      "date_precision": "year",
+      "geography_country": "India",
+      "geography_region": "Maharashtra",
+      "sector": "tech",
+      "role_type": "IT worker",
+      "employer": "",
+      "displacement_type": "anticipatory_despair",
+      "confidence": "contextual",
+      "status": "confirmed",
+      "had_support_network": null,
+      "had_financial_safety_net": null,
+      "time_since_displacement": null
+    },
+    {
+      "case_id": 9,
+      "age_range": "30s",
+      "gender": "M",
+      "date_of_death": null,
+      "date_approximate": "2025",
+      "date_precision": "year",
+      "geography_country": "India",
+      "geography_region": "Tamil Nadu",
+      "sector": "tech",
+      "role_type": "software engineer",
+      "employer": "",
+      "displacement_type": "anticipatory_despair",
+      "confidence": "contextual",
+      "status": "confirmed",
+      "had_support_network": null,
+      "had_financial_safety_net": null,
+      "time_since_displacement": null
+    },
+    {
+      "case_id": 11,
+      "age_range": "30s",
+      "gender": "M",
+      "date_of_death": null,
+      "date_approximate": "2025",
+      "date_precision": "year",
+      "geography_country": "India",
+      "geography_region": "",
+      "sector": "tech",
+      "role_type": "engineer",
+      "employer": "Ola Electric",
+      "displacement_type": "anticipatory_despair",
+      "confidence": "contextual",
+      "status": "confirmed",
+      "had_support_network": null,
+      "had_financial_safety_net": null,
+      "time_since_displacement": null
+    }
+  ],
+  "sources": [
+    {
+      "source_id": 1,
+      "case_id": 1,
+      "url": "https://en.tmtpost.com/post/7592070",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Microsoft's Mass Layoffs Spark Anxiety Over Mental Health in an AI Era",
+      "publication": "TMTPOST",
+      "date_published": "2025-05-20"
+    },
+    {
+      "source_id": 2,
+      "case_id": 2,
+      "url": "https://en.tmtpost.com/post/7592070",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Microsoft's Mass Layoffs Spark Anxiety Over Mental Health in an AI Era",
+      "publication": "TMTPOST",
+      "date_published": "2025-05-20"
+    },
+    {
+      "source_id": 3,
+      "case_id": 3,
+      "url": "https://en.tmtpost.com/post/7592070",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Microsoft's Mass Layoffs Spark Anxiety Over Mental Health in an AI Era",
+      "publication": "TMTPOST",
+      "date_published": "2025-05-20"
+    },
+    {
+      "source_id": 4,
+      "case_id": 4,
+      "url": "https://sambadenglish.com/national-international-news/india/bengaluru-techie-couple-suicide-husbands-depression-after-us-job-loss-linked-to-ai-say-police-11444416",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Bengaluru techie couple suicide: Husband's depression after US job loss linked to AI, say police",
+      "publication": "Sambad English",
+      "date_published": "2026-04-01"
+    },
+    {
+      "source_id": 5,
+      "case_id": 4,
+      "url": "https://www.newsgram.com/karnataka/2026/04/02/bengaluru-techie-couples-suicide",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "\u20b980 Lakh Job Loss, AI, Depression: Bengaluru Techie Jumps from 17th Floor After Finding Husband Dead",
+      "publication": "NewsGram",
+      "date_published": "2026-04-02"
+    },
+    {
+      "source_id": 7,
+      "case_id": 4,
+      "url": "https://www.statemirror.com/india/bengaluru-man-suicide-due-ai-job-loss-than-wife-jumps-from-18th-floor-163567",
+      "source_type": "news_report",
+      "language": "hi",
+      "title": "AI \u0928\u0947 \u091b\u093f\u0928\u0940 \u0928\u094c\u0915\u0930\u0940 \u0924\u094b \u092a\u0924\u093f \u0928\u0947 \u0915\u0940 \u0906\u0924\u094d\u092e\u0939\u0924\u094d\u092f\u093e, \u092a\u0924\u094d\u0928\u0940 \u0928\u0947 18\u0935\u0940\u0902 \u092e\u0902\u091c\u093f\u0932 \u0938\u0947 \u0932\u0917\u093e\u0908 \u091b\u0932\u093e\u0902\u0917",
+      "publication": "State Mirror",
+      "date_published": "2026-04-01"
+    },
+    {
+      "source_id": 8,
+      "case_id": 4,
+      "url": "https://www.theindiadaily.com/state/karnataka/did-bengaluru-techie-couple-have-no-other-option-but-suicide-news-116785",
+      "source_type": "news_report",
+      "language": "hi",
+      "title": "AI \u0928\u0947 \u091b\u0940\u0928 \u0932\u0940 \u0928\u094c\u0915\u0930\u0940... \u0915\u094d\u092f\u093e \u092c\u0947\u0902\u0917\u0932\u0941\u0930\u0941 \u091f\u0947\u0915\u0940 \u0915\u092a\u0932 \u0915\u0947 \u092a\u093e\u0938 \u0938\u0941\u0938\u093e\u0907\u0921 \u0915\u0947 \u0905\u0932\u093e\u0935\u093e \u0914\u0930 \u0915\u094b\u0908 \u0935\u093f\u0915\u0932\u094d\u092a \u0928\u0939\u0940\u0902 \u0925\u093e?",
+      "publication": "The India Daily",
+      "date_published": "2026-04-02"
+    },
+    {
+      "source_id": 9,
+      "case_id": 4,
+      "url": "https://www.tv9hindi.com/state/karnataka-depressed-bengaluru-engineer-committed-suicide-after-losing-job-due-to-ai-wife-jumped-from-17th-floor-after-seeing-his-body-3738149.html",
+      "source_type": "news_report",
+      "language": "hi",
+      "title": "AI \u0915\u0947 \u0915\u093e\u0930\u0923 \u0917\u0908 \u0928\u094c\u0915\u0930\u0940, \u0921\u093f\u092a\u094d\u0930\u0947\u0936\u0928 \u092e\u0947\u0902 \u0907\u0902\u091c\u0940\u0928\u093f\u092f\u0930 \u0928\u0947 \u0915\u0930 \u0932\u093f\u092f\u093e \u0938\u0941\u0938\u093e\u0907\u0921... \u092a\u0924\u094d\u0928\u0940 \u0928\u0947 \u092d\u0940 17\u0935\u0940\u0902 \u092e\u0902\u091c\u093f\u0932 \u0938\u0947 \u0932\u0917\u093e\u0908 \u091b\u0932\u093e\u0902\u0917",
+      "publication": "TV9 Hindi",
+      "date_published": "2026-04-01"
+    },
+    {
+      "source_id": 10,
+      "case_id": 4,
+      "url": "https://hindi.newsbytesapp.com/news/india/bengaluru-live-in-techie-couple-suicide-secret-marriage-ai-layoffs-rs-80-lakh-job-loss-depression/story",
+      "source_type": "news_report",
+      "language": "hi",
+      "title": "\u092c\u0947\u0902\u0917\u0932\u0941\u0930\u0941 \u092e\u0947\u0902 \u0907\u0902\u091c\u0940\u0928\u093f\u092f\u0930 \u091c\u094b\u0921\u093c\u0947 \u0915\u0940 \u0906\u0924\u094d\u092e\u0939\u0924\u094d\u092f\u093e: AI \u0938\u0947 \u0917\u0908 80 \u0932\u093e\u0916 \u0915\u0940 \u0928\u094c\u0915\u0930\u0940",
+      "publication": "NewsBytesApp Hindi",
+      "date_published": "2026-04-02"
+    },
+    {
+      "source_id": 11,
+      "case_id": 4,
+      "url": "https://www.hindiwire.in/bengaluru-tech-couple-suicide-ai-job-loss-mental-stress",
+      "source_type": "news_report",
+      "language": "hi",
+      "title": "\u092c\u0947\u0902\u0917\u0932\u0941\u0930\u0941 \u0915\u0940 \u092f\u0939 \u0924\u094d\u0930\u093e\u0938\u0926\u0940 \u0938\u093f\u0930\u094d\u092b \u090f\u0915 \u092a\u0930\u093f\u0935\u093e\u0930 \u0915\u0940 \u0938\u094d\u091f\u094b\u0930\u0940 \u0928\u0939\u0940\u0902, \u091f\u0947\u0915 \u0928\u094c\u0915\u0930\u093f\u092f\u094b\u0902 \u0914\u0930 \u092e\u093e\u0928\u0938\u093f\u0915 \u0926\u092c\u093e\u0935 \u0915\u093e \u0906\u0908\u0928\u093e \u092d\u0940 \u0939\u0948",
+      "publication": "HindiWire",
+      "date_published": "2026-04-02"
+    },
+    {
+      "source_id": 12,
+      "case_id": 4,
+      "url": "https://the420.in/bengaluru-tech-couple-suicide-note-job-loss/",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "AI-Linked Job Cut Mentioned in Note Recovered After Bengaluru Couple Death",
+      "publication": "The420.in",
+      "date_published": "2026-04-02"
+    },
+    {
+      "source_id": 13,
+      "case_id": 4,
+      "url": "https://lyfsmile.com/news/bengaluru-techie-ai-job-loss-suicide-wife-jumps",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Bengaluru Techie Lost Job to AI, Attempts Suicide; Wife Jumps from 17th floor Later",
+      "publication": "LyfSmile",
+      "date_published": "2026-04-01"
+    },
+    {
+      "source_id": 14,
+      "case_id": 4,
+      "url": "https://www.phoenix.indiablooms.com/news/tech-job-loss-isolation-what-led-to-bengaluru-couples-tragic-deaths/details",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Tech job loss, isolation: What led to Bengaluru couple tragic deaths",
+      "publication": "IndiaBloom",
+      "date_published": "2026-04-02"
+    },
+    {
+      "source_id": 15,
+      "case_id": 4,
+      "url": "https://americanbazaaronline.com/2026/04/01/indian-couples-american-dream-turns-sour-highlighting-ai-driven-job-loss-478071/",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Indian couple American dream turns sour, highlighting AI-driven job loss",
+      "publication": "American Bazaar Online",
+      "date_published": "2026-04-01"
+    },
+    {
+      "source_id": 16,
+      "case_id": 4,
+      "url": "https://restofworld.org/2026/india-tech-workers-crisis-suicide/",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "India's tech workers in crisis amid suicides, layoffs, and AI",
+      "publication": "Rest of World",
+      "date_published": "2026-01-27"
+    },
+    {
+      "source_id": 17,
+      "case_id": 4,
+      "url": "https://futurism.com/artificial-intelligence/suicides-india-economy-ai",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Wave of Suicides Hits as India Economy Is Ravaged by AI",
+      "publication": "Futurism",
+      "date_published": "2026-01-28"
+    },
+    {
+      "source_id": 18,
+      "case_id": 4,
+      "url": "https://www.wionews.com/trending/artificial-intelligence-job-threat-layoffs-india-it-workers-suicide-1769766292342",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Anxiety from AI driving Indian IT workers towards suicide: Report",
+      "publication": "WION News",
+      "date_published": "2026-01-27"
+    },
+    {
+      "source_id": 23,
+      "case_id": 4,
+      "url": "https://startupnews.fyi/2026/01/27/indias-tech-workers-in-crisis-amid-suicides-layoffs-and-ai/",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "India's tech workers in crisis amid suicides, layoffs, and AI",
+      "publication": "Startup News",
+      "date_published": "2026-01-27"
+    },
+    {
+      "source_id": 29,
+      "case_id": 4,
+      "url": "https://www.thehawk.in/news/india/bengaluru-techie-couple-suicide-husbands-depression-after-us-job-loss-linked-to-ai-says-police",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Bengaluru techie couple suicide: Husband's depression after US job loss linked to AI, says police",
+      "publication": "The Hawk",
+      "date_published": null
+    },
+    {
+      "source_id": 30,
+      "case_id": 4,
+      "url": "https://www.mypunepulse.com/bengaluru-techie-couple-suicide-secret-marriage-%E2%82%B980-lakh-salary-and-ai-layoff-behind-tragedy/",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Bengaluru Techie Couple Suicide: Secret Marriage, Rs 80 Lakh Salary and AI Layoff Behind Tragedy",
+      "publication": "Pune Pulse",
+      "date_published": null
+    },
+    {
+      "source_id": 6,
+      "case_id": 5,
+      "url": "https://www.newsgram.com/karnataka/2026/04/02/bengaluru-techie-couples-suicide",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "\u20b980 Lakh Job Loss, AI, Depression: Bengaluru Techie Jumps from 17th Floor After Finding Husband Dead",
+      "publication": "NewsGram",
+      "date_published": "2026-04-02"
+    },
+    {
+      "source_id": 19,
+      "case_id": 6,
+      "url": "https://www.business-standard.com/companies/news/ola-krutrim-engineer-suicide-workplace-culture-allegations-125051800559_1.html",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Krutrim techie's 'suicide' raises question over workplace culture",
+      "publication": "Business Standard",
+      "date_published": "2025-05-18"
+    },
+    {
+      "source_id": 20,
+      "case_id": 6,
+      "url": "https://thefederal.com/category/states/south/karnataka/krutim-techie-found-dead-in-bengaluru-toxic-work-culture-blamed-187669",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Young Krutrim techie found dead in Bengaluru; toxic work culture behind this?",
+      "publication": "The Federal",
+      "date_published": "2025-05-18"
+    },
+    {
+      "source_id": 21,
+      "case_id": 6,
+      "url": "https://www.tribuneindia.com/news/bengaluru_news/25-year-old-ai-engineer-found-dead-in-bengaluru-allegations-of-toxic-work-culture-emerge",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "25-year-old AI engineer found dead in Bengaluru, allegations of toxic work culture emerge",
+      "publication": "The Tribune",
+      "date_published": "2025-05-19"
+    },
+    {
+      "source_id": 22,
+      "case_id": 6,
+      "url": "https://longreads.com/2026/02/03/death-of-an-indian-tech-worker/",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Death of an Indian Tech Worker",
+      "publication": "Longreads",
+      "date_published": "2026-02-03"
+    },
+    {
+      "source_id": 24,
+      "case_id": 7,
+      "url": "https://restofworld.org/2026/india-tech-workers-crisis-suicide/",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "India's tech workers in crisis amid suicides, layoffs, and AI",
+      "publication": "Rest of World",
+      "date_published": null
+    },
+    {
+      "source_id": 25,
+      "case_id": 8,
+      "url": "https://restofworld.org/2026/india-tech-workers-crisis-suicide/",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "India's tech workers in crisis amid suicides, layoffs, and AI",
+      "publication": "Rest of World",
+      "date_published": null
+    },
+    {
+      "source_id": 26,
+      "case_id": 9,
+      "url": "https://restofworld.org/2026/india-tech-workers-crisis-suicide/",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "India's tech workers in crisis amid suicides, layoffs, and AI",
+      "publication": "Rest of World",
+      "date_published": null
+    },
+    {
+      "source_id": 27,
+      "case_id": 10,
+      "url": "https://restofworld.org/2026/india-tech-workers-crisis-suicide/",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "India's tech workers in crisis amid suicides, layoffs, and AI",
+      "publication": "Rest of World",
+      "date_published": null
+    },
+    {
+      "source_id": 28,
+      "case_id": 11,
+      "url": "https://restofworld.org/2026/india-tech-workers-crisis-suicide/",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "India's tech workers in crisis amid suicides, layoffs, and AI",
+      "publication": "Rest of World",
+      "date_published": null
+    }
+  ],
+  "layoff_events": [
+    {
+      "event_id": 2,
+      "company": "Tata Consultancy Services",
+      "date_announced": "2025-10-01",
+      "headcount": 20000,
+      "ai_cited": 1,
+      "sector": "bpo_callcenter",
+      "geography": "India",
+      "source_url": "https://restofworld.org/2026/india-tech-workers-crisis-suicide/",
+      "notes": "Biggest ever TCS layoffs, AI-driven overhaul. Part of broader India tech worker crisis.",
+      "created_at": "2026-04-05 11:05:50"
+    },
+    {
+      "event_id": 3,
+      "company": "Amazon",
+      "date_announced": "2025-10-01",
+      "headcount": 14000,
+      "ai_cited": 1,
+      "sector": "tech",
+      "geography": "US",
+      "source_url": "https://news.crunchbase.com/startups/tech-layoffs/",
+      "notes": "14,000 corporate employees.",
+      "created_at": "2026-04-05 11:05:50"
+    },
+    {
+      "event_id": 1,
+      "company": "Microsoft",
+      "date_announced": "2025-05-13",
+      "headcount": 6000,
+      "ai_cited": 1,
+      "sector": "tech",
+      "geography": "Global",
+      "source_url": "https://en.tmtpost.com/post/7592070",
+      "notes": "~6000 layoffs. 3 employee suicides reported during turmoil.",
+      "created_at": "2026-04-05 11:05:50"
+    }
+  ]
+}
