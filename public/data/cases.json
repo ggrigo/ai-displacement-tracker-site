@@ -1,7 +1,7 @@
 {
-  "exported_at": "2026-04-08 17:36",
+  "exported_at": "2026-04-12 14:08",
   "total_cases": 11,
-  "total_sources": 30,
+  "total_sources": 46,
   "stats": {
     "by_country": [
       {
@@ -475,6 +475,46 @@
       "date_published": null
     },
     {
+      "source_id": 31,
+      "case_id": 4,
+      "url": "https://www.greatandhra.com/politics/telangana-news/ai-axe-empty-pockets-tragic-end-for-telugu-techie-couple-153906",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "AI Axe, Empty Pockets, Tragic End For Telugu Techie Couple",
+      "publication": "GreatAndhra",
+      "date_published": null
+    },
+    {
+      "source_id": 32,
+      "case_id": 4,
+      "url": "https://www.ap7am.com/en/123945/bengaluru-techie-couple-suicide-husbands-depression-after-us-job-loss-linked-to-ai-says-police",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Bengaluru techie couple suicide: Husband's depression after US job loss linked to AI, says police",
+      "publication": "AP7AM",
+      "date_published": null
+    },
+    {
+      "source_id": 36,
+      "case_id": 4,
+      "url": "https://www.psychiatrictimes.com/view/artificial-intelligence-job-loss-and-the-psychiatric-significance-of-work",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Artificial Intelligence, Job Loss, and the Psychiatric Significance of Work",
+      "publication": "Psychiatric Times",
+      "date_published": null
+    },
+    {
+      "source_id": 45,
+      "case_id": 4,
+      "url": "https://odishatv.in/national/lost-job-to-ai-bengaluru-techie-dies-by-suicide-partner-jumps-to-death-moments-later-11442023",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Lost job to AI, Bengaluru techie dies by suicide, partner jumps to death moments later",
+      "publication": "OdishaTV",
+      "date_published": null
+    },
+    {
       "source_id": 6,
       "case_id": 5,
       "url": "https://www.newsgram.com/karnataka/2026/04/02/bengaluru-techie-couples-suicide",
@@ -525,6 +565,96 @@
       "date_published": "2026-02-03"
     },
     {
+      "source_id": 33,
+      "case_id": 6,
+      "url": "https://www.deccanherald.com/india/karnataka/bengaluru/bengaluru-techie-with-private-firm-kills-self-3548124",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Bengaluru Techie Suicide: Krutrim Engineer Found Dead in Agara Lake",
+      "publication": "Deccan Herald",
+      "date_published": null
+    },
+    {
+      "source_id": 34,
+      "case_id": 6,
+      "url": "https://yourstory.com/2025/05/ola-confirms-24-year-old-krutrim-engineers-death-by-suicide",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Ola confirms 24-year-old Krutrim Engineer's death",
+      "publication": "YourStory",
+      "date_published": null
+    },
+    {
+      "source_id": 35,
+      "case_id": 6,
+      "url": "https://www.businesstoday.in/india/story/if-bright-kids-like-him-deceased-25-yr-old-krutrim-techies-friend-reveals-they-spoke-8-days-before-incident-476991-2025-05-20",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Deceased 25-yr-old Krutrim techie's friend reveals they spoke 8 days before incident",
+      "publication": "BusinessToday",
+      "date_published": null
+    },
+    {
+      "source_id": 40,
+      "case_id": 6,
+      "url": "https://www.freepressjournal.in/india/25-year-old-krutrim-ai-engineer-found-dead-in-bengaluru-lake-allegations-of-toxic-work-culture-surface",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "25-Year-Old Krutrim AI Engineer Found Dead In Bengaluru Lake",
+      "publication": "Free Press Journal",
+      "date_published": null
+    },
+    {
+      "source_id": 41,
+      "case_id": 6,
+      "url": "https://www.oneindia.com/bengaluru/bengaluru-krutrim-ai-engineer-s-suicide-sparks-debate-on-toxic-work-culture-4157281.html",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Krutrim AI Engineers Suicide Sparks Debate On Toxic Work Culture",
+      "publication": "OneIndia",
+      "date_published": null
+    },
+    {
+      "source_id": 42,
+      "case_id": 6,
+      "url": "https://www.outlookindia.com/national/bengaluru-25-year-old-ola-krutrim-techie-allegedly-dies-by-suicide-toxic-work-culture-blamed-details",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "25-Year-Old Ola Krutrim Techie Allegedly Dies By Suicide",
+      "publication": "Outlook India",
+      "date_published": null
+    },
+    {
+      "source_id": 43,
+      "case_id": 6,
+      "url": "https://www.storyboard18.com/how-it-works/krutrim-employee-found-dead-in-bengaluru-lake-company-issues-statement-66314.htm",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Krutrim employee found dead in Bengaluru lake, company issues statement",
+      "publication": "Storyboard18",
+      "date_published": null
+    },
+    {
+      "source_id": 44,
+      "case_id": 6,
+      "url": "https://indianstartupnews.com/news/krutrim-employee-dies-by-suicide-amid-alleged-extreme-work-stress-company-says-we-granted-him-leave-for-rest-9081923",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Krutrim employee dies by suicide amid alleged extreme work stress",
+      "publication": "Indian Startup News",
+      "date_published": null
+    },
+    {
+      "source_id": 46,
+      "case_id": 6,
+      "url": "https://zeenews.india.com/economy/who-was-nikhil-somwanshi-techie-who-died-by-suicide-as-coworker-points-to-toxic-workload-2903479.html",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Who Was Nikhil Somwanshi? Techie Who Died By Suicide As Coworker Points To Toxic Workload",
+      "publication": "Zee News",
+      "date_published": null
+    },
+    {
       "source_id": 24,
       "case_id": 7,
       "url": "https://restofworld.org/2026/india-tech-workers-crisis-suicide/",
@@ -565,6 +695,36 @@
       "date_published": null
     },
     {
+      "source_id": 37,
+      "case_id": 10,
+      "url": "https://gulfnews.com/world/asia/india/23-year-old-it-engineer-in-kerala-dies-by-suicide-amid-work-stress-1.500085063",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "23-year-old IT Engineer in Kerala dies by suicide amid work stress",
+      "publication": "Gulf News",
+      "date_published": null
+    },
+    {
+      "source_id": 38,
+      "case_id": 10,
+      "url": "https://www.onmanorama.com/news/kerala/2025/04/06/kottayam-youth-high-rise-building-death.html",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "IT engineer jumps to death from 8th floor of apartment in Kottayam due to job stress",
+      "publication": "Onmanorama",
+      "date_published": null
+    },
+    {
+      "source_id": 39,
+      "case_id": 10,
+      "url": "https://keralakaumudi.com/en/news/news.php?id=1512571&u=unable-to-endure-work-pressure-software-engineer-at-kochi-based-it-firm-commits-suicide",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Unable to endure work pressure; software engineer at Kochi-Based IT firm commits suicide",
+      "publication": "Kerala Kaumudi",
+      "date_published": null
+    },
+    {
       "source_id": 28,
       "case_id": 11,
       "url": "https://restofworld.org/2026/india-tech-workers-crisis-suicide/",
@@ -584,8 +744,6 @@
       "ai_cited": 1,
       "sector": "bpo_callcenter",
       "geography": "India",
-      "source_url": "https://restofworld.org/2026/india-tech-workers-crisis-suicide/",
-      "notes": "Biggest ever TCS layoffs, AI-driven overhaul. Part of broader India tech worker crisis.",
       "created_at": "2026-04-05 11:05:50"
     },
     {
@@ -596,8 +754,6 @@
       "ai_cited": 1,
       "sector": "tech",
       "geography": "US",
-      "source_url": "https://news.crunchbase.com/startups/tech-layoffs/",
-      "notes": "14,000 corporate employees.",
       "created_at": "2026-04-05 11:05:50"
     },
     {
@@ -608,8 +764,6 @@
       "ai_cited": 1,
       "sector": "tech",
       "geography": "Global",
-      "source_url": "https://en.tmtpost.com/post/7592070",
-      "notes": "~6000 layoffs. 3 employee suicides reported during turmoil.",
       "created_at": "2026-04-05 11:05:50"
     }
   ]
