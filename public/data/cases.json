@@ -1,12 +1,12 @@
 {
-  "exported_at": "2026-04-12 14:08",
-  "total_cases": 11,
-  "total_sources": 46,
+  "exported_at": "2026-04-14 14:02",
+  "total_cases": 12,
+  "total_sources": 57,
   "stats": {
     "by_country": [
       {
         "label": "India",
-        "count": 8
+        "count": 9
       },
       {
         "label": "Unknown",
@@ -20,13 +20,13 @@
     "by_sector": [
       {
         "label": "tech",
-        "count": 11
+        "count": 12
       }
     ],
     "by_displacement": [
       {
         "label": "anticipatory_despair",
-        "count": 7
+        "count": 8
       },
       {
         "label": "laid_off_ai_restructure",
@@ -40,7 +40,7 @@
       },
       {
         "label": "contextual",
-        "count": 5
+        "count": 6
       }
     ],
     "by_month": [
@@ -55,6 +55,10 @@
       {
         "label": "2025-05",
         "count": 4
+      },
+      {
+        "label": "2026-02",
+        "count": 1
       },
       {
         "label": "2026-03",
@@ -96,6 +100,25 @@
       "employer": "IBM (reported)",
       "displacement_type": "anticipatory_despair",
       "confidence": "alleged",
+      "status": "confirmed",
+      "had_support_network": null,
+      "had_financial_safety_net": null,
+      "time_since_displacement": null
+    },
+    {
+      "case_id": 12,
+      "age_range": "30s",
+      "gender": "M",
+      "date_of_death": null,
+      "date_approximate": "2026-02",
+      "date_precision": "month",
+      "geography_country": "India",
+      "geography_region": "Telangana",
+      "sector": "tech",
+      "role_type": "software_engineer",
+      "employer": "Unnamed IT firm (Gachibowli)",
+      "displacement_type": "anticipatory_despair",
+      "confidence": "contextual",
       "status": "confirmed",
       "had_support_network": null,
       "had_financial_safety_net": null,
@@ -283,6 +306,26 @@
       "title": "Microsoft's Mass Layoffs Spark Anxiety Over Mental Health in an AI Era",
       "publication": "TMTPOST",
       "date_published": "2025-05-20"
+    },
+    {
+      "source_id": 50,
+      "case_id": 1,
+      "url": "https://www.teamblind.com/post/3-microsoft-employees-lost-their-lives-due-to-layoffs-h1xhw3ni",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "3 Microsoft employees lost their lives due to layoffs",
+      "publication": "TeamBlind",
+      "date_published": null
+    },
+    {
+      "source_id": 51,
+      "case_id": 1,
+      "url": "https://www.linkedin.com/posts/sunguk-moon-a94a2419_3-microsoft-employees-lost-their-lives-due-activity-7338697668447059968-JK3Z",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Microsoft layoffs: a tragic reminder of human cost",
+      "publication": "LinkedIn",
+      "date_published": null
     },
     {
       "source_id": 2,
@@ -515,6 +558,36 @@
       "date_published": null
     },
     {
+      "source_id": 47,
+      "case_id": 4,
+      "url": "https://newsable.asianetnews.com/india/bengaluru-couple-suicide-case-job-loss-family-pressure-due-interfaith-marriage-depression-end-couple-lives-articleshow-bcozegb",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Bengaluru Suicide: Job Loss, Family Pressure And Depression Behind Couple's Tragic Death",
+      "publication": "Asianet Newsable",
+      "date_published": null
+    },
+    {
+      "source_id": 48,
+      "case_id": 4,
+      "url": "https://thefederal.com/category/states/south/karnataka/bengaluru-it-couple-suicide-kothanur-237027",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Bengaluru IT couple dies by suicide; police suspect distress due to job loss, illness",
+      "publication": "The Federal",
+      "date_published": null
+    },
+    {
+      "source_id": 49,
+      "case_id": 4,
+      "url": "https://www.thenewsminute.com/karnataka/techie-couple-from-telangana-dies-by-suicide-in-bengaluru",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Techie couple from Telangana dies by suicide in Bengaluru",
+      "publication": "The News Minute",
+      "date_published": null
+    },
+    {
       "source_id": 6,
       "case_id": 5,
       "url": "https://www.newsgram.com/karnataka/2026/04/02/bengaluru-techie-couples-suicide",
@@ -732,6 +805,66 @@
       "language": "en",
       "title": "India's tech workers in crisis amid suicides, layoffs, and AI",
       "publication": "Rest of World",
+      "date_published": null
+    },
+    {
+      "source_id": 52,
+      "case_id": 12,
+      "url": "https://thelogicalindian.com/hyderabad-software-engineer-31-dies-by-suicide-after-difficulty-adjusting-to-new-job-role/",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Hyderabad Software Engineer, 31, Dies by Suicide After Difficulty Adjusting to New Job Role",
+      "publication": "The Logical Indian",
+      "date_published": null
+    },
+    {
+      "source_id": 53,
+      "case_id": 12,
+      "url": "https://www.siasat.com/job-stress-drives-31-year-old-techie-to-suicide-in-hyderabad-3336719/",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Job stress drives 31-year-old techie to suicide in Hyderabad",
+      "publication": "The Siasat Daily",
+      "date_published": null
+    },
+    {
+      "source_id": 54,
+      "case_id": 12,
+      "url": "https://telanganatoday.com/software-engineer-dies-by-suicide-in-miyapur-police-probe-stress-angle",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Software engineer dies by suicide in Miyapur, police probe stress angle",
+      "publication": "Telangana Today",
+      "date_published": null
+    },
+    {
+      "source_id": 55,
+      "case_id": 12,
+      "url": "https://news24online.com/india/hyderabad-techie-dies-by-suicide-after-struggling-with-job-requirements/735668/",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Hyderabad techie dies by suicide after struggling with job requirements",
+      "publication": "News24",
+      "date_published": null
+    },
+    {
+      "source_id": 56,
+      "case_id": 12,
+      "url": "https://newskarnataka.com/india/young-software-engineer-dies-by-suicide-amid-work-related-stress/06022026",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Young software engineer dies by suicide amid work-related stress",
+      "publication": "News Karnataka",
+      "date_published": null
+    },
+    {
+      "source_id": 57,
+      "case_id": 12,
+      "url": "https://thesouthindiatimes.com/states/telangana/hyderabad-it-employee-suicide-highlights-rising-work-pressure-concerns/",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Hyderabad IT Employee Suicide Highlights Rising Work Pressure Concerns",
+      "publication": "The South India Times",
       "date_published": null
     }
   ],
