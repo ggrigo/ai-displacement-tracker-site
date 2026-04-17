@@ -1,12 +1,12 @@
 {
-  "exported_at": "2026-04-14 14:02",
-  "total_cases": 12,
-  "total_sources": 57,
+  "exported_at": "2026-04-17 14:02",
+  "total_cases": 13,
+  "total_sources": 61,
   "stats": {
     "by_country": [
       {
         "label": "India",
-        "count": 9
+        "count": 10
       },
       {
         "label": "Unknown",
@@ -20,13 +20,13 @@
     "by_sector": [
       {
         "label": "tech",
-        "count": 12
+        "count": 13
       }
     ],
     "by_displacement": [
       {
         "label": "anticipatory_despair",
-        "count": 8
+        "count": 9
       },
       {
         "label": "laid_off_ai_restructure",
@@ -35,11 +35,11 @@
     ],
     "by_confidence": [
       {
-        "label": "alleged",
-        "count": 6
+        "label": "contextual",
+        "count": 7
       },
       {
-        "label": "contextual",
+        "label": "alleged",
         "count": 6
       }
     ],
@@ -62,7 +62,7 @@
       },
       {
         "label": "2026-03",
-        "count": 2
+        "count": 3
       }
     ]
   },
@@ -100,6 +100,25 @@
       "employer": "IBM (reported)",
       "displacement_type": "anticipatory_despair",
       "confidence": "alleged",
+      "status": "confirmed",
+      "had_support_network": null,
+      "had_financial_safety_net": null,
+      "time_since_displacement": null
+    },
+    {
+      "case_id": 13,
+      "age_range": "30s",
+      "gender": "F",
+      "date_of_death": null,
+      "date_approximate": "2026-03",
+      "date_precision": "month",
+      "geography_country": "India",
+      "geography_region": "Telangana",
+      "sector": "tech",
+      "role_type": "software_engineer",
+      "employer": "Unnamed IT firm (Gachibowli)",
+      "displacement_type": "anticipatory_despair",
+      "confidence": "contextual",
       "status": "confirmed",
       "had_support_network": null,
       "had_financial_safety_net": null,
@@ -865,6 +884,46 @@
       "language": "en",
       "title": "Hyderabad IT Employee Suicide Highlights Rising Work Pressure Concerns",
       "publication": "The South India Times",
+      "date_published": null
+    },
+    {
+      "source_id": 61,
+      "case_id": 12,
+      "url": "https://www.devdiscourse.com/article/technology/3793935-tragic-demise-the-pressure-on-software-professionals",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Tragic Demise: The Pressure on Software Professionals",
+      "publication": "Devdiscourse",
+      "date_published": null
+    },
+    {
+      "source_id": 58,
+      "case_id": 13,
+      "url": "https://telanganatoday.com/32-year-old-software-engineer-dies-by-suicide-in-kondapur-work-stress-suspected",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "32-year-old software engineer dies by suicide in Kondapur; work stress suspected",
+      "publication": "Telangana Today",
+      "date_published": null
+    },
+    {
+      "source_id": 59,
+      "case_id": 13,
+      "url": "https://www.deccanchronicle.com/nation/crime/hyderabad-woman-software-engineer-dies-by-suicide-884395",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Hyderabad: Woman Software Engineer Dies by Suicide",
+      "publication": "Deccan Chronicle",
+      "date_published": null
+    },
+    {
+      "source_id": 60,
+      "case_id": 13,
+      "url": "https://ntvtelugu.com/news/software-engineer-suicide-kondapur-hyderabad-news-944891.html",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Software Engineer Dies by Suicide in Kondapur, Hyderabad",
+      "publication": "NTV Telugu",
       "date_published": null
     }
   ],
