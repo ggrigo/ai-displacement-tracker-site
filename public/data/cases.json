@@ -1,7 +1,7 @@
 {
-  "exported_at": "2026-04-17 14:02",
+  "exported_at": "2026-04-18 14:02",
   "total_cases": 13,
-  "total_sources": 61,
+  "total_sources": 63,
   "stats": {
     "by_country": [
       {
@@ -604,6 +604,26 @@
       "language": "en",
       "title": "Techie couple from Telangana dies by suicide in Bengaluru",
       "publication": "The News Minute",
+      "date_published": null
+    },
+    {
+      "source_id": 62,
+      "case_id": 4,
+      "url": "https://www.deccanchronicle.com/southern-states/karnataka/interfaith-techie-couple-from-telangana-die-by-suicide-in-bengaluru-1947769",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Techie Couple From Telangana Die By Suicide In Bengaluru",
+      "publication": "Deccan Chronicle",
+      "date_published": null
+    },
+    {
+      "source_id": 63,
+      "case_id": 4,
+      "url": "https://thecsrjournal.in/suicide-bengaluru-tech-couple-raises-concerns-mental-health/",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Suicide of Bengaluru Tech Couple Raises Concerns Over Mental Health",
+      "publication": "The CSR Journal",
       "date_published": null
     },
     {
