@@ -1,12 +1,12 @@
 {
-  "exported_at": "2026-04-18 14:02",
-  "total_cases": 13,
-  "total_sources": 63,
+  "exported_at": "2026-04-19 14:03",
+  "total_cases": 14,
+  "total_sources": 74,
   "stats": {
     "by_country": [
       {
         "label": "India",
-        "count": 10
+        "count": 11
       },
       {
         "label": "Unknown",
@@ -20,13 +20,13 @@
     "by_sector": [
       {
         "label": "tech",
-        "count": 13
+        "count": 14
       }
     ],
     "by_displacement": [
       {
         "label": "anticipatory_despair",
-        "count": 9
+        "count": 10
       },
       {
         "label": "laid_off_ai_restructure",
@@ -36,7 +36,7 @@
     "by_confidence": [
       {
         "label": "contextual",
-        "count": 7
+        "count": 8
       },
       {
         "label": "alleged",
@@ -58,7 +58,7 @@
       },
       {
         "label": "2026-02",
-        "count": 1
+        "count": 2
       },
       {
         "label": "2026-03",
@@ -136,6 +136,25 @@
       "sector": "tech",
       "role_type": "software_engineer",
       "employer": "Unnamed IT firm (Gachibowli)",
+      "displacement_type": "anticipatory_despair",
+      "confidence": "contextual",
+      "status": "confirmed",
+      "had_support_network": null,
+      "had_financial_safety_net": null,
+      "time_since_displacement": null
+    },
+    {
+      "case_id": 14,
+      "age_range": "30s",
+      "gender": "M",
+      "date_of_death": null,
+      "date_approximate": "2026-02",
+      "date_precision": "month",
+      "geography_country": "India",
+      "geography_region": "Maharashtra",
+      "sector": "tech",
+      "role_type": "IT engineer",
+      "employer": "Unnamed IT firm (Baner, Pune)",
       "displacement_type": "anticipatory_despair",
       "confidence": "contextual",
       "status": "confirmed",
@@ -837,6 +856,46 @@
       "date_published": null
     },
     {
+      "source_id": 71,
+      "case_id": 10,
+      "url": "https://madhyamamonline.com/india/kerala-techie-overwhelmed-by-work-pressure-dies-by-suicide-1396996",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Kerala techie, overwhelmed by work pressure, dies by suicide",
+      "publication": "Madhyamam Online",
+      "date_published": null
+    },
+    {
+      "source_id": 72,
+      "case_id": 10,
+      "url": "https://www.thenewsminute.com/kerala/a-month-after-kerala-techies-death-by-suicide-police-book-rss-worker-he-named",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "A month after Kerala techie's death by suicide, police book RSS worker he named",
+      "publication": "The News Minute",
+      "date_published": null
+    },
+    {
+      "source_id": 73,
+      "case_id": 10,
+      "url": "https://keralaexpress.com/news/work-pressure-young-man-jacob-thomas-committed-suicide",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Work pressure: young man committed suicide",
+      "publication": "Kerala Express",
+      "date_published": null
+    },
+    {
+      "source_id": 74,
+      "case_id": 10,
+      "url": "https://scroll.in/latest/1087556/kerala-software-engineer-dies-by-suicide-alleges-he-was-sexually-abused-by-rss-members-as-a-child",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Controversy in Kerala after software engineer's suicide note alleges sexual abuse by 'RSS members'",
+      "publication": "Scroll.in",
+      "date_published": null
+    },
+    {
       "source_id": 28,
       "case_id": 11,
       "url": "https://restofworld.org/2026/india-tech-workers-crisis-suicide/",
@@ -945,6 +1004,76 @@
       "title": "Software Engineer Dies by Suicide in Kondapur, Hyderabad",
       "publication": "NTV Telugu",
       "date_published": null
+    },
+    {
+      "source_id": 64,
+      "case_id": 14,
+      "url": "https://www.freepressjournal.in/pune/pune-it-engineer-dies-by-suicide-at-lonavalas-lions-point-leaves-distress-email",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Pune IT Engineer Dies By Suicide At Lonavala's Lions Point, Leaves Distress Email",
+      "publication": "Free Press Journal",
+      "date_published": "2026-02-12"
+    },
+    {
+      "source_id": 65,
+      "case_id": 14,
+      "url": "https://www.republicworld.com/india/32-year-old-pune-it-engineer-dies-by-suicide-after-jumping-into-a-250-foot-deep-gorge-at-lions-point",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "32-Year-Old Pune IT Engineer Dies by Suicide After Jumping Into a 250-Foot-Deep Gorge at Lions Point",
+      "publication": "Republic World",
+      "date_published": "2026-02-13"
+    },
+    {
+      "source_id": 66,
+      "case_id": 14,
+      "url": "https://www.news9live.com/india/pune-engineer-jumps-to-death-at-lonavala-lions-point-sent-email-to-wife-2930447",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Pune engineer jumps to death at Lonavala's Lions Point, sent email to wife",
+      "publication": "News9live",
+      "date_published": "2026-02-13"
+    },
+    {
+      "source_id": 67,
+      "case_id": 14,
+      "url": "https://www.punekarnews.in/pune-it-professional-dies-by-suicide-at-lions-point-in-lonavala/",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Pune IT Professional Dies by Suicide at Lion's Point in Lonavala",
+      "publication": "Punekar News",
+      "date_published": "2026-02-13"
+    },
+    {
+      "source_id": 68,
+      "case_id": 14,
+      "url": "https://www.thebridgechronicle.com/pune/pune-it-engineer-dies-lonavala-lions-point-gorge-incident-agn97",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Pune IT Engineer Dies After Jumping Into Gorge at Lonavala Lions Point",
+      "publication": "The Bridge Chronicle",
+      "date_published": "2026-02-13"
+    },
+    {
+      "source_id": 69,
+      "case_id": 14,
+      "url": "https://www.mypunepulse.com/pune-it-engineer-dies-after-allegedly-jumping-into-250-foot-gorge-at-lonavalas-lions-point-emails-hint-at-mental-stress/",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Pune IT Engineer Dies After Allegedly Jumping Into 250-Foot Gorge at Lonavala's Lions Point; Emails Hint at Mental Stress",
+      "publication": "Pune Pulse",
+      "date_published": "2026-02-13"
+    },
+    {
+      "source_id": 70,
+      "case_id": 14,
+      "url": "https://www.indiatv.in/maharashtra/it-engineer-email-wife-and-friends-jumps-into-250-foot-deep-ditch-police-checking-phone-messages-2026-02-13-1197585",
+      "source_type": "news_report",
+      "language": "hi",
+      "title": "IT engineer jumps into 250-foot-deep ditch after emailing wife and friends",
+      "publication": "India TV Hindi",
+      "date_published": "2026-02-13"
     }
   ],
   "layoff_events": [
