@@ -1,7 +1,7 @@
 {
-  "exported_at": "2026-04-19 14:03",
+  "exported_at": "2026-04-21 14:01",
   "total_cases": 14,
-  "total_sources": 74,
+  "total_sources": 79,
   "stats": {
     "by_country": [
       {
@@ -646,6 +646,26 @@
       "date_published": null
     },
     {
+      "source_id": 78,
+      "case_id": 4,
+      "url": "https://www.voiworld.com/bengaluru-techie-couple-die-after-us-job-loss-triggers-distress/",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Bengaluru Techie Couple Die After US Job Loss Triggers Distress",
+      "publication": "VOI World",
+      "date_published": null
+    },
+    {
+      "source_id": 79,
+      "case_id": 4,
+      "url": "https://www.indiablooms.com/news/tech-job-loss-isolation-what-led-to-bengaluru-couples-tragic-deaths/details",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Tech job loss, isolation: What led to Bengaluru couple's tragic deaths",
+      "publication": "India Blooms",
+      "date_published": null
+    },
+    {
       "source_id": 6,
       "case_id": 5,
       "url": "https://www.newsgram.com/karnataka/2026/04/02/bengaluru-techie-couples-suicide",
@@ -973,6 +993,36 @@
       "language": "en",
       "title": "Tragic Demise: The Pressure on Software Professionals",
       "publication": "Devdiscourse",
+      "date_published": null
+    },
+    {
+      "source_id": 75,
+      "case_id": 12,
+      "url": "https://www.tribuneindia.com/news/india/unable-to-cope-with-job-requirements-hyderabad-techie-ends-life/",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Unable to cope with job requirements, Hyderabad techie ends life",
+      "publication": "The Tribune",
+      "date_published": null
+    },
+    {
+      "source_id": 76,
+      "case_id": 12,
+      "url": "https://theprint.in/india/unable-to-cope-with-job-requirements-techie-ends-life-in-hyderabad/2846051/",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Unable to cope with job requirements, techie ends life in Hyderabad",
+      "publication": "ThePrint",
+      "date_published": null
+    },
+    {
+      "source_id": 77,
+      "case_id": 12,
+      "url": "https://india.presspost.in/unable-to-cope-with-job-requirements-hyderabad-techie-dies-by-suicide-cops",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Unable To Cope With Job Requirements, Hyderabad Techie Dies By Suicide: Cops",
+      "publication": "Press Post India",
       "date_published": null
     },
     {
