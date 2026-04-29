@@ -1,12 +1,16 @@
 {
-  "exported_at": "2026-04-21 14:01",
-  "total_cases": 14,
-  "total_sources": 79,
+  "exported_at": "2026-04-29 14:03",
+  "total_cases": 21,
+  "total_sources": 98,
   "stats": {
     "by_country": [
       {
         "label": "India",
-        "count": 11
+        "count": 12
+      },
+      {
+        "label": "South Korea",
+        "count": 6
       },
       {
         "label": "Unknown",
@@ -20,33 +24,49 @@
     "by_sector": [
       {
         "label": "tech",
-        "count": 14
+        "count": 15
+      },
+      {
+        "label": "telecom",
+        "count": 6
       }
     ],
     "by_displacement": [
+      {
+        "label": "laid_off_ai_restructure",
+        "count": 10
+      },
       {
         "label": "anticipatory_despair",
         "count": 10
       },
       {
-        "label": "laid_off_ai_restructure",
-        "count": 4
+        "label": "unclear",
+        "count": 1
       }
     ],
     "by_confidence": [
       {
         "label": "contextual",
-        "count": 8
+        "count": 12
       },
       {
         "label": "alleged",
-        "count": 6
+        "count": 9
       }
     ],
     "by_month": [
       {
+        "label": "2024-11",
+        "count": 1
+      },
+      {
         "label": "2025",
         "count": 4
+      },
+      {
+        "label": "2025-01",
+        "count": 1
       },
       {
         "label": "2025-04",
@@ -54,7 +74,19 @@
       },
       {
         "label": "2025-05",
-        "count": 4
+        "count": 5
+      },
+      {
+        "label": "2025-06",
+        "count": 1
+      },
+      {
+        "label": "2025-07",
+        "count": 1
+      },
+      {
+        "label": "2025-08",
+        "count": 1
       },
       {
         "label": "2026-02",
@@ -63,10 +95,33 @@
       {
         "label": "2026-03",
         "count": 3
+      },
+      {
+        "label": "2026-04",
+        "count": 1
       }
     ]
   },
   "cases": [
+    {
+      "case_id": 21,
+      "age_range": "30s",
+      "gender": "M",
+      "date_of_death": null,
+      "date_approximate": "2026-04",
+      "date_precision": "exact",
+      "geography_country": "India",
+      "geography_region": "Uttar Pradesh",
+      "sector": "tech",
+      "role_type": "director",
+      "employer": "Unnamed (described as 'company director' / 'tech company director')",
+      "displacement_type": "unclear",
+      "confidence": "contextual",
+      "status": "confirmed",
+      "had_support_network": null,
+      "had_financial_safety_net": null,
+      "time_since_displacement": null
+    },
     {
       "case_id": 4,
       "age_range": "30s",
@@ -163,6 +218,63 @@
       "time_since_displacement": null
     },
     {
+      "case_id": 20,
+      "age_range": "50s",
+      "gender": "unknown",
+      "date_of_death": null,
+      "date_approximate": "2025-08",
+      "date_precision": "month",
+      "geography_country": "South Korea",
+      "geography_region": "",
+      "sector": "telecom",
+      "role_type": "subsidiary-transferred",
+      "employer": "KT Netcore (KT subsidiary)",
+      "displacement_type": "laid_off_ai_restructure",
+      "confidence": "contextual",
+      "status": "confirmed",
+      "had_support_network": null,
+      "had_financial_safety_net": null,
+      "time_since_displacement": null
+    },
+    {
+      "case_id": 19,
+      "age_range": "50s",
+      "gender": "unknown",
+      "date_of_death": null,
+      "date_approximate": "2025-07",
+      "date_precision": "month",
+      "geography_country": "South Korea",
+      "geography_region": "",
+      "sector": "telecom",
+      "role_type": "reassigned-sales",
+      "employer": "KT (Korea Telecom) Total Sales TF",
+      "displacement_type": "laid_off_ai_restructure",
+      "confidence": "contextual",
+      "status": "confirmed",
+      "had_support_network": null,
+      "had_financial_safety_net": null,
+      "time_since_displacement": null
+    },
+    {
+      "case_id": 18,
+      "age_range": "40s",
+      "gender": "M",
+      "date_of_death": null,
+      "date_approximate": "2025-06",
+      "date_precision": "month",
+      "geography_country": "South Korea",
+      "geography_region": "",
+      "sector": "telecom",
+      "role_type": "subsidiary-transferred",
+      "employer": "KT Netcore (KT subsidiary)",
+      "displacement_type": "laid_off_ai_restructure",
+      "confidence": "alleged",
+      "status": "confirmed",
+      "had_support_network": null,
+      "had_financial_safety_net": null,
+      "time_since_displacement": null
+    },
+    {
       "case_id": 1,
       "age_range": "unknown",
       "gender": "unknown",
@@ -239,6 +351,25 @@
       "time_since_displacement": null
     },
     {
+      "case_id": 17,
+      "age_range": "40s",
+      "gender": "M",
+      "date_of_death": null,
+      "date_approximate": "2025-05",
+      "date_precision": "month",
+      "geography_country": "South Korea",
+      "geography_region": "",
+      "sector": "telecom",
+      "role_type": "reassigned-sales",
+      "employer": "KT (Korea Telecom) Total Sales TF",
+      "displacement_type": "laid_off_ai_restructure",
+      "confidence": "alleged",
+      "status": "confirmed",
+      "had_support_network": null,
+      "had_financial_safety_net": null,
+      "time_since_displacement": null
+    },
+    {
       "case_id": 10,
       "age_range": "20s",
       "gender": "M",
@@ -252,6 +383,25 @@
       "employer": "",
       "displacement_type": "anticipatory_despair",
       "confidence": "contextual",
+      "status": "confirmed",
+      "had_support_network": null,
+      "had_financial_safety_net": null,
+      "time_since_displacement": null
+    },
+    {
+      "case_id": 16,
+      "age_range": "40s",
+      "gender": "M",
+      "date_of_death": null,
+      "date_approximate": "2025-01",
+      "date_precision": "month",
+      "geography_country": "South Korea",
+      "geography_region": "",
+      "sector": "telecom",
+      "role_type": "reassigned-sales",
+      "employer": "KT (Korea Telecom) Total Sales TF",
+      "displacement_type": "laid_off_ai_restructure",
+      "confidence": "alleged",
       "status": "confirmed",
       "had_support_network": null,
       "had_financial_safety_net": null,
@@ -327,6 +477,25 @@
       "role_type": "engineer",
       "employer": "Ola Electric",
       "displacement_type": "anticipatory_despair",
+      "confidence": "contextual",
+      "status": "confirmed",
+      "had_support_network": null,
+      "had_financial_safety_net": null,
+      "time_since_displacement": null
+    },
+    {
+      "case_id": 15,
+      "age_range": "60s",
+      "gender": "unknown",
+      "date_of_death": null,
+      "date_approximate": "2024-11",
+      "date_precision": "month",
+      "geography_country": "South Korea",
+      "geography_region": "",
+      "sector": "telecom",
+      "role_type": "early-retirement",
+      "employer": "KT (Korea Telecom)",
+      "displacement_type": "laid_off_ai_restructure",
       "confidence": "contextual",
       "status": "confirmed",
       "had_support_network": null,
@@ -1026,6 +1195,26 @@
       "date_published": null
     },
     {
+      "source_id": 80,
+      "case_id": 12,
+      "url": "https://newskarnataka.com/india/new-job-pressure-ends-young-software-engineers-life/07022026",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "New job pressure ends young software engineer's life",
+      "publication": "News Karnataka",
+      "date_published": null
+    },
+    {
+      "source_id": 81,
+      "case_id": 12,
+      "url": "https://citybuzzdaily.com/hyderabad-techie-suicide-case/",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Hyderabad Police Register Case in Techie Suicide",
+      "publication": "City Buzz Daily",
+      "date_published": null
+    },
+    {
       "source_id": 58,
       "case_id": 13,
       "url": "https://telanganatoday.com/32-year-old-software-engineer-dies-by-suicide-in-kondapur-work-stress-suspected",
@@ -1124,6 +1313,176 @@
       "title": "IT engineer jumps into 250-foot-deep ditch after emailing wife and friends",
       "publication": "India TV Hindi",
       "date_published": "2026-02-13"
+    },
+    {
+      "source_id": 82,
+      "case_id": 15,
+      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003171910",
+      "source_type": "news_report",
+      "language": "ko",
+      "title": "KT restructuring \u2014 6 worker deaths in 10 months (OhmyNews overview)",
+      "publication": "OhmyNews",
+      "date_published": null
+    },
+    {
+      "source_id": 88,
+      "case_id": 15,
+      "url": "https://news.koreaherald.com/view.php?ud=20241014050540",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "KT to make AI push with staff shakeup",
+      "publication": "Korea Herald",
+      "date_published": null
+    },
+    {
+      "source_id": 89,
+      "case_id": 15,
+      "url": "https://www.lightreading.com/operations/kt-to-embark-on-major-restructuring-with-up-to-6-000-jobs-at-stake-reports",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "KT to embark on major restructuring with up to 6,000 jobs at stake",
+      "publication": "LightReading",
+      "date_published": null
+    },
+    {
+      "source_id": 90,
+      "case_id": 15,
+      "url": "https://www.rightknow.co.kr/news/articleView.html?idxno=31187",
+      "source_type": "news_report",
+      "language": "ko",
+      "title": "KT Total Sales TF deaths \u2014 75% of staff in mental distress",
+      "publication": "RightKnow News",
+      "date_published": null
+    },
+    {
+      "source_id": 91,
+      "case_id": 15,
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=468578",
+      "source_type": "news_report",
+      "language": "ko",
+      "title": "KT restructuring deaths \u2014 union: punitive reassignment must be recognized as workplace injury",
+      "publication": "Joongang Economy",
+      "date_published": null
+    },
+    {
+      "source_id": 92,
+      "case_id": 15,
+      "url": "https://www.thedailypost.kr/news/articleView.html?idxno=113888",
+      "source_type": "news_report",
+      "language": "ko",
+      "title": "Labor and civil society welcome KT Total Sales TF dissolution: 'death train has stopped'",
+      "publication": "TheDailyPost",
+      "date_published": null
+    },
+    {
+      "source_id": 93,
+      "case_id": 15,
+      "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=47358",
+      "source_type": "news_report",
+      "language": "ko",
+      "title": "KT \u2014 controversy over deletion of deceased employee's company phone data",
+      "publication": "NToday",
+      "date_published": null
+    },
+    {
+      "source_id": 83,
+      "case_id": 16,
+      "url": "https://imnews.imbc.com/replay/2025/nwdesk/article/6679867_36799.html",
+      "source_type": "news_report",
+      "language": "ko",
+      "title": "KT Total Sales TF employee dies \u2014 left note citing 'self-loathing' over 'unreasonable training' (MBC News)",
+      "publication": "MBC News",
+      "date_published": null
+    },
+    {
+      "source_id": 84,
+      "case_id": 17,
+      "url": "https://m.ilyoweekly.co.kr/news/newsview.php?ncode=1065571629496665",
+      "source_type": "news_report",
+      "language": "ko",
+      "title": "Third KT post-restructuring tragedy \u2014 Total Sales TF employee (Ilyoweekly)",
+      "publication": "Ilyoweekly",
+      "date_published": null
+    },
+    {
+      "source_id": 85,
+      "case_id": 18,
+      "url": "https://www.mediaus.co.kr/news/articleView.html?idxno=314064",
+      "source_type": "news_report",
+      "language": "ko",
+      "title": "KT worker death \u2014 union demands special labor inspection (MediaUs)",
+      "publication": "MediaUs",
+      "date_published": null
+    },
+    {
+      "source_id": 86,
+      "case_id": 19,
+      "url": "https://www.rightknow.co.kr/news/articleView.html?idxno=31390",
+      "source_type": "news_report",
+      "language": "ko",
+      "title": "KT Total Sales TF \u2014 successive deaths, restructuring aftermath (RightKnow News feature)",
+      "publication": "RightKnow News",
+      "date_published": null
+    },
+    {
+      "source_id": 87,
+      "case_id": 20,
+      "url": "https://www.mediaus.co.kr/news/articleView.html?idxno=314498",
+      "source_type": "news_report",
+      "language": "ko",
+      "title": "Less than a year into KT restructuring \u2014 6 workers dead (MediaUs)",
+      "publication": "MediaUs",
+      "date_published": null
+    },
+    {
+      "source_id": 94,
+      "case_id": 21,
+      "url": "https://theprint.in/india/man-jumps-to-death-from-22nd-floor-of-posh-noida-society-depression-suspected/2915861/",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Man jumps to death from 22nd floor of posh Noida society; depression suspected",
+      "publication": "ThePrint",
+      "date_published": "2026-04-27"
+    },
+    {
+      "source_id": 95,
+      "case_id": 21,
+      "url": "https://www.rashtriyaujala.com/2026/04/27/noida-tech-company-director-commits-suicide-by-jumping-from-22nd-floor-3-other-cases-also-cause-panic/",
+      "source_type": "news_report",
+      "language": "hi",
+      "title": "\u0928\u094b\u090f\u0921\u093e \u092e\u0947\u0902 \u0938\u0928\u0938\u0928\u0940: 22\u0935\u0940\u0902 \u092e\u0902\u091c\u093f\u0932 \u0938\u0947 \u0915\u0942\u0926\u0915\u0930 \u091f\u0947\u0915 \u0915\u0902\u092a\u0928\u0940 \u0915\u0947 \u0921\u093e\u092f\u0930\u0947\u0915\u094d\u091f\u0930 \u0928\u0947 \u0926\u0940 \u091c\u093e\u0928, 3 \u0905\u0928\u094d\u092f \u092e\u093e\u092e\u0932\u094b\u0902 \u0938\u0947 \u092d\u0940 \u0926\u0939\u0936\u0924",
+      "publication": "Rashtriya Ujala",
+      "date_published": "2026-04-27"
+    },
+    {
+      "source_id": 96,
+      "case_id": 21,
+      "url": "https://hindi.theprint.in/india/a-man-committed-suicide-by-jumping-from-the-22nd-floor-of-a-posh-society-in-noida/964105/",
+      "source_type": "news_report",
+      "language": "hi",
+      "title": "\u0928\u094b\u090f\u0921\u093e \u0915\u0940 \u092a\u0949\u0936 \u0938\u094b\u0938\u093e\u0907\u091f\u0940 \u0915\u0940 22\u0935\u0940\u0902 \u092e\u0902\u091c\u093c\u093f\u0932 \u0938\u0947 \u0915\u0942\u0926\u0915\u0930 \u0935\u094d\u092f\u0915\u094d\u0924\u093f \u0928\u0947 \u0915\u0940 \u0906\u0924\u094d\u092e\u0939\u0924\u094d\u092f\u093e",
+      "publication": "ThePrint Hindi",
+      "date_published": "2026-04-27"
+    },
+    {
+      "source_id": 97,
+      "case_id": 21,
+      "url": "https://english.varthabharati.in/india/man-jumps-to-death-from-22nd-floor-of-posh-noida-society-depression-suspected",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Man jumps to death from 22nd floor of posh Noida society; depression suspected",
+      "publication": "Vartha Bharati",
+      "date_published": "2026-04-27"
+    },
+    {
+      "source_id": 98,
+      "case_id": 21,
+      "url": "https://www.amarujala.com/delhi-ncr/noida/dfgsfd-grnoida-news-c-1-noi1095-4213361-2026-04-26",
+      "source_type": "news_report",
+      "language": "hi",
+      "title": "\u0928\u094b\u090f\u0921\u093e: \u091f\u0947\u0915 \u0915\u0902\u092a\u0928\u0940 \u0915\u0947 \u0928\u093f\u0926\u0947\u0936\u0915 \u0928\u0947 22\u0935\u0940\u0902 \u092e\u0902\u091c\u093f\u0932 \u0938\u0947 \u0915\u0942\u0926\u0915\u0930 \u0915\u0940 \u0906\u0924\u094d\u092e\u0939\u0924\u094d\u092f\u093e",
+      "publication": "Amar Ujala",
+      "date_published": "2026-04-26"
     }
   ],
   "layoff_events": [
