@@ -1,7 +1,7 @@
 {
-  "exported_at": "2026-04-29 14:03",
-  "total_cases": 21,
-  "total_sources": 98,
+  "exported_at": "2026-05-08 14:03",
+  "total_cases": 22,
+  "total_sources": 108,
   "stats": {
     "by_country": [
       {
@@ -13,18 +13,18 @@
         "count": 6
       },
       {
-        "label": "Unknown",
+        "label": "US",
         "count": 2
       },
       {
-        "label": "US",
-        "count": 1
+        "label": "Unknown",
+        "count": 2
       }
     ],
     "by_sector": [
       {
         "label": "tech",
-        "count": 15
+        "count": 16
       },
       {
         "label": "telecom",
@@ -33,11 +33,11 @@
     ],
     "by_displacement": [
       {
-        "label": "laid_off_ai_restructure",
-        "count": 10
+        "label": "anticipatory_despair",
+        "count": 11
       },
       {
-        "label": "anticipatory_despair",
+        "label": "laid_off_ai_restructure",
         "count": 10
       },
       {
@@ -48,7 +48,7 @@
     "by_confidence": [
       {
         "label": "contextual",
-        "count": 12
+        "count": 13
       },
       {
         "label": "alleged",
@@ -98,7 +98,7 @@
       },
       {
         "label": "2026-04",
-        "count": 1
+        "count": 2
       }
     ]
   },
@@ -116,6 +116,25 @@
       "role_type": "director",
       "employer": "Unnamed (described as 'company director' / 'tech company director')",
       "displacement_type": "unclear",
+      "confidence": "contextual",
+      "status": "confirmed",
+      "had_support_network": null,
+      "had_financial_safety_net": null,
+      "time_since_displacement": null
+    },
+    {
+      "case_id": 22,
+      "age_range": "20s",
+      "gender": "M",
+      "date_of_death": null,
+      "date_approximate": "2026-04",
+      "date_precision": "month",
+      "geography_country": "US",
+      "geography_region": "Illinois",
+      "sector": "tech",
+      "role_type": "recent graduate / job-seeker (MS DePaul)",
+      "employer": "",
+      "displacement_type": "anticipatory_despair",
       "confidence": "contextual",
       "status": "confirmed",
       "had_support_network": null,
@@ -975,6 +994,26 @@
       "date_published": null
     },
     {
+      "source_id": 107,
+      "case_id": 6,
+      "url": "https://www.thedailyjagran.com/india/bengaluru-25-year-old-engineer-at-ola-krutrim-dies-by-suicide-managers-abuse-and-toxic-work-culture-blamed-10238626",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Bengaluru: 25-Year-Old Engineer At Ola's Krutrim Dies By Suicide, Manager's Abuse And Toxic Work Culture Blamed",
+      "publication": "The Daily Jagran",
+      "date_published": null
+    },
+    {
+      "source_id": 108,
+      "case_id": 6,
+      "url": "https://www.mypunepulse.com/ola-techie-dies-by-suicide-in-bengaluru-social-media-alleges-toxic-workplace-at-krutrim/",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "OLA Techie Dies by Suicide in Bengaluru, Social Media Alleges Toxic Workplace at Krutrim",
+      "publication": "Pune Pulse",
+      "date_published": null
+    },
+    {
       "source_id": 24,
       "case_id": 7,
       "url": "https://restofworld.org/2026/india-tech-workers-crisis-suicide/",
@@ -1483,6 +1522,86 @@
       "title": "\u0928\u094b\u090f\u0921\u093e: \u091f\u0947\u0915 \u0915\u0902\u092a\u0928\u0940 \u0915\u0947 \u0928\u093f\u0926\u0947\u0936\u0915 \u0928\u0947 22\u0935\u0940\u0902 \u092e\u0902\u091c\u093f\u0932 \u0938\u0947 \u0915\u0942\u0926\u0915\u0930 \u0915\u0940 \u0906\u0924\u094d\u092e\u0939\u0924\u094d\u092f\u093e",
       "publication": "Amar Ujala",
       "date_published": "2026-04-26"
+    },
+    {
+      "source_id": 99,
+      "case_id": 22,
+      "url": "https://www.tribuneindia.com/news/india/indian-student-struggling-with-unemployment-after-finishing-studies-dies-by-suicide-in-us/",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Indian student, struggling with unemployment after finishing studies, dies by suicide in US",
+      "publication": "The Tribune (India)",
+      "date_published": "2026-05-02"
+    },
+    {
+      "source_id": 100,
+      "case_id": 22,
+      "url": "https://thelogicalindian.com/indian-depaul-graduate-26-dies-by-suicide-in-chicago-after-prolonged-unemployment-and-financial-stress/",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Indian DePaul Graduate, 26, Dies by Suicide in Chicago After Prolonged Unemployment and Financial Stress",
+      "publication": "The Logical Indian",
+      "date_published": "2026-05-02"
+    },
+    {
+      "source_id": 101,
+      "case_id": 22,
+      "url": "https://www.republicworld.com/india/unable-to-get-a-job-stressed-indian-student-with-debt-ridden-father-commits-suicide-in-usa",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Unable To Get A Job, Stressed Indian Student Commits Suicide In USA",
+      "publication": "Republic World",
+      "date_published": "2026-05-02"
+    },
+    {
+      "source_id": 102,
+      "case_id": 22,
+      "url": "https://americanbazaaronline.com/2026/04/30/bringing-chandu-home-indian-student-commits-suicide-in-us-479906/",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Bringing Chandu home: Indian student commits suicide in US, fundraiser launched",
+      "publication": "American Bazaar",
+      "date_published": "2026-04-30"
+    },
+    {
+      "source_id": 103,
+      "case_id": 22,
+      "url": "https://www.visaverge.com/news/iraganaboyina-chandu-depaul-student-dies-by-suicide-gofundme-launched-to-bring-body-home/",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "DePaul Graduate Repatriation: $76K Raised for Indian Student 2026",
+      "publication": "VisaVerge",
+      "date_published": "2026-05-04"
+    },
+    {
+      "source_id": 104,
+      "case_id": 22,
+      "url": "https://newsable.asianetnews.com/india/indian-in-us-dies-by-suicide-andhra-student-iraganaboyina-chandu-dies-after-no-job-in-chicago-fundraiser-to-bring-body-articleshow-walza71",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Indian Student In US Dies By Suicide After Struggling To Find Job, Fundraiser Launched To Bring Body",
+      "publication": "Asianet Newsable",
+      "date_published": "2026-05-02"
+    },
+    {
+      "source_id": 105,
+      "case_id": 22,
+      "url": "https://odishatv.in/international/26-year-old-indian-student-studying-in-us-dies-by-suicide-due-to-unemployment-financial-strain-11786821",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "26-year-old Indian student studying in US dies by suicide due to unemployment, financial strain",
+      "publication": "OdishaTV",
+      "date_published": "2026-05-02"
+    },
+    {
+      "source_id": 106,
+      "case_id": 22,
+      "url": "https://www.freepressjournal.in/world/26-year-old-unemployed-andhra-man-dies-by-suicide-in-us-debt-ridden-father-awaits-his-body",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "26-Year-Old Unemployed Andhra Man Dies By Suicide In US; Debt-Ridden Father Awaits His Body",
+      "publication": "Free Press Journal",
+      "date_published": "2026-05-02"
     }
   ],
   "layoff_events": [
