@@ -1,7 +1,7 @@
 {
-  "exported_at": "2026-05-08 14:03",
+  "exported_at": "2026-05-09 14:03",
   "total_cases": 22,
-  "total_sources": 108,
+  "total_sources": 109,
   "stats": {
     "by_country": [
       {
@@ -1011,6 +1011,16 @@
       "language": "en",
       "title": "OLA Techie Dies by Suicide in Bengaluru, Social Media Alleges Toxic Workplace at Krutrim",
       "publication": "Pune Pulse",
+      "date_published": null
+    },
+    {
+      "source_id": 109,
+      "case_id": 6,
+      "url": "https://goodelectronics.org/death-of-an-indian-tech-worker/",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Death of an Indian Tech Worker",
+      "publication": "GoodElectronics",
       "date_published": null
     },
     {
