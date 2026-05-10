@@ -1,7 +1,7 @@
 {
-  "exported_at": "2026-05-09 14:03",
+  "exported_at": "2026-05-10 14:02",
   "total_cases": 22,
-  "total_sources": 109,
+  "total_sources": 112,
   "stats": {
     "by_country": [
       {
@@ -1431,6 +1431,36 @@
       "language": "ko",
       "title": "KT \u2014 controversy over deletion of deceased employee's company phone data",
       "publication": "NToday",
+      "date_published": null
+    },
+    {
+      "source_id": 110,
+      "case_id": 15,
+      "url": "https://slownews.kr/119583",
+      "source_type": "news_report",
+      "language": "ko",
+      "title": "\ud68c\uc7a5 \ubc14\ub014 \ub54c\ub9c8\ub2e4 \uc0ac\ub78c \uc798\ub77c \uc774\uc775 \ub298\ub9ac\uae30, \uad6d\uac00\uae30\uac04 \ud1b5\uc2e0\uc0ac\uc5c5\uc790 KT\uc758 \ube44\uadf9",
+      "publication": "SlowNews",
+      "date_published": null
+    },
+    {
+      "source_id": 111,
+      "case_id": 15,
+      "url": "https://m.skyedaily.com/news_view.html?ID=274664",
+      "source_type": "news_report",
+      "language": "ko",
+      "title": "\ub05d\ub098\uc9c0 \uc54a\uc740 KT \uad6c\uc870\uc870\uc815\u2026 \uae5c\uae5c\uc774 \uc601\uc5c5\uc5d0 \ubab0\ub9b0 2500\uba85",
+      "publication": "SkyeDaily",
+      "date_published": null
+    },
+    {
+      "source_id": 112,
+      "case_id": 15,
+      "url": "http://www.hyundaenews.com/104838",
+      "source_type": "news_report",
+      "language": "ko",
+      "title": "\uc601\uc5c5 \ub0b4\ubab0\ub9b0 \uc5d4\uc9c0\ub2c8\uc5b4\ub4e4\u2026KT \uad6c\uc870\uc870\uc815 \ube44\uadf9\uc740 \uc9c4\ud589\ud615",
+      "publication": "Hyundae News (Weekly Hyundae)",
       "date_published": null
     },
     {
