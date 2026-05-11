@@ -1,12 +1,12 @@
 {
-  "exported_at": "2026-05-10 14:02",
-  "total_cases": 22,
-  "total_sources": 112,
+  "exported_at": "2026-05-11 14:00",
+  "total_cases": 23,
+  "total_sources": 117,
   "stats": {
     "by_country": [
       {
         "label": "India",
-        "count": 12
+        "count": 13
       },
       {
         "label": "South Korea",
@@ -24,7 +24,7 @@
     "by_sector": [
       {
         "label": "tech",
-        "count": 16
+        "count": 17
       },
       {
         "label": "telecom",
@@ -34,7 +34,7 @@
     "by_displacement": [
       {
         "label": "anticipatory_despair",
-        "count": 11
+        "count": 12
       },
       {
         "label": "laid_off_ai_restructure",
@@ -48,7 +48,7 @@
     "by_confidence": [
       {
         "label": "contextual",
-        "count": 13
+        "count": 14
       },
       {
         "label": "alleged",
@@ -58,7 +58,7 @@
     "by_month": [
       {
         "label": "2024-11",
-        "count": 1
+        "count": 2
       },
       {
         "label": "2025",
@@ -515,6 +515,25 @@
       "role_type": "early-retirement",
       "employer": "KT (Korea Telecom)",
       "displacement_type": "laid_off_ai_restructure",
+      "confidence": "contextual",
+      "status": "confirmed",
+      "had_support_network": null,
+      "had_financial_safety_net": null,
+      "time_since_displacement": null
+    },
+    {
+      "case_id": 23,
+      "age_range": "20s",
+      "gender": "M",
+      "date_of_death": null,
+      "date_approximate": "2024-11",
+      "date_precision": "month",
+      "geography_country": "India",
+      "geography_region": "Telangana",
+      "sector": "tech",
+      "role_type": "software engineer",
+      "employer": "Unnamed (Mindspace Madhapur IT park)",
+      "displacement_type": "anticipatory_despair",
       "confidence": "contextual",
       "status": "confirmed",
       "had_support_network": null,
@@ -1642,6 +1661,56 @@
       "title": "26-Year-Old Unemployed Andhra Man Dies By Suicide In US; Debt-Ridden Father Awaits His Body",
       "publication": "Free Press Journal",
       "date_published": "2026-05-02"
+    },
+    {
+      "source_id": 113,
+      "case_id": 23,
+      "url": "https://munsifdaily.com/tragic-suicide-of-software-engineer-in-madhapur-hyderabad-the-rising-mental-health-crisis-in-high-pressure-industries/",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Tragic Suicide of Software Engineer in Madhapur, Hyderabad: The Rising Mental Health Crisis in High-Pressure Industries",
+      "publication": "Munsif Daily",
+      "date_published": null
+    },
+    {
+      "source_id": 114,
+      "case_id": 23,
+      "url": "https://www.thehansindia.com/news/cities/hyderabad/hyderabad-software-engineers-suicide-in-madhapur-and-teenager-killed-in-santoshnagar-923338",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Hyderabad: Software Engineer's Suicide in Madhapur and Teenager Killed in Santoshnagar",
+      "publication": "The Hans India",
+      "date_published": null
+    },
+    {
+      "source_id": 115,
+      "case_id": 23,
+      "url": "https://telanganatoday.com/software-engineer-leaps-to-death-in-madhapur-youngster-murdered-in-old-city",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Late night crime reports from Hyderabad: Software engineer leaps to death in Madhapur",
+      "publication": "Telangana Today",
+      "date_published": null
+    },
+    {
+      "source_id": 116,
+      "case_id": 23,
+      "url": "https://www.thehansindia.com/telangana/software-employee-committed-suicide-in-madhapur-ps-limits-550949",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Software employee committed suicide in Madhapur PS limits",
+      "publication": "The Hans India",
+      "date_published": null
+    },
+    {
+      "source_id": 117,
+      "case_id": 23,
+      "url": "https://www.bizzbuzz.news/state/telangana/tragic-deaths-in-hyderabad-software-engineers-suicide-and-murder-in-santoshnagar-1342984",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Tragic Deaths in Hyderabad: Software Engineer's Suicide and Murder in Santoshnagar",
+      "publication": "Bizz Buzz",
+      "date_published": null
     }
   ],
   "layoff_events": [
