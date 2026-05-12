@@ -1,7 +1,7 @@
 {
-  "exported_at": "2026-05-11 14:00",
+  "exported_at": "2026-05-12 14:03",
   "total_cases": 23,
-  "total_sources": 117,
+  "total_sources": 118,
   "stats": {
     "by_country": [
       {
@@ -871,6 +871,16 @@
       "title": "Tech job loss, isolation: What led to Bengaluru couple's tragic deaths",
       "publication": "India Blooms",
       "date_published": null
+    },
+    {
+      "source_id": 118,
+      "case_id": 4,
+      "url": "https://northeastherald.in/national/tech-job-loss-isolation-what-led-to-bengaluru-couple-s-tragic-deaths",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Tech job loss, isolation: What led to Bengaluru couple's tragic deaths",
+      "publication": "Northeast Herald",
+      "date_published": "2026-04-01"
     },
     {
       "source_id": 6,
