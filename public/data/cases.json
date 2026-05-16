@@ -1,7 +1,7 @@
 {
-  "exported_at": "2026-05-12 14:03",
+  "exported_at": "2026-05-16 14:03",
   "total_cases": 23,
-  "total_sources": 118,
+  "total_sources": 119,
   "stats": {
     "by_country": [
       {
@@ -881,6 +881,16 @@
       "title": "Tech job loss, isolation: What led to Bengaluru couple's tragic deaths",
       "publication": "Northeast Herald",
       "date_published": "2026-04-01"
+    },
+    {
+      "source_id": 119,
+      "case_id": 4,
+      "url": "https://www.deccanherald.com/india/karnataka/bengaluru/techie-dies-by-suicide-partner-jumps-to-death-from-17th-floor-bengaluru-apartment-3950624",
+      "source_type": "news_report",
+      "language": "en",
+      "title": "Techie dies by suicide, partner jumps to death from 17th floor Bengaluru apartment",
+      "publication": "Deccan Herald",
+      "date_published": null
     },
     {
       "source_id": 6,
